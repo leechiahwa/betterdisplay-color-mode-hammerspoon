@@ -130,3 +130,12 @@ If possible, use a **USB-C → DisplayPort cable** instead of HDMI.
 This often enables Full RGB by default and removes the need for this workaround.
 
 ---
+
+## 📜 License
+
+This project is licensed under the MIT License – see the LICENSE
+ file for details.
+
+You are free to use, modify, and distribute this project, including for commercial purposes, without warranty.
+
+---
